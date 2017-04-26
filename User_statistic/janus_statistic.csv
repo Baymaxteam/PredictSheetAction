@@ -1,0 +1,10 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+17963,janus,2017-03-30,janus,ODS_PA_0570_P,2017-03-01,2017-03-01,True
+20089,janus,2017-03-30,janus,ODS_FIN_0610,,9999-12-31,True
+25682,janus,2017-04-07,janus,ODS_PA_0460,2017-03-31,2017-03-31,True
+28796,janus,2017-04-17,janus,ODS_POS_1340,2016-04-30,2016-04-30,True
+28797,janus,2017-04-17,janus,ODS_POS_0970,,9999-12-31,True
+28799,janus,2017-04-17,janus,ODS_POS_0970,,9999-12-31,True
+28800,janus,2017-04-17,janus,ODS_POS_0970,,9999-12-31,True
+28802,janus,2017-04-17,janus,ODS_POS_0970,,9999-12-31,True
+30936,janus,2017-04-18,janus,ODS_UNB_0560,2016-04-30,2016-04-30,True
