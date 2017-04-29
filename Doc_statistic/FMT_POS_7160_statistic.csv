@@ -1,0 +1,6 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+1529,mPOS,2017-04-19,mPOS,FMT_POS_7160,2014-04-19,2017-04-19,True
+16452,mPOS,2017-03-23,mPOS,FMT_POS_7160,,,True
+16850,mPOS,2017-03-24,mPOS,FMT_POS_7160,,,True
+20720,mPOS,2017-03-28,mPOS,FMT_POS_7160,,,True
+27726,mPOS,2017-04-10,mPOS,FMT_POS_7160,,,True

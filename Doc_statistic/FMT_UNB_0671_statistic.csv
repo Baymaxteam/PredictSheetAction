@@ -1,0 +1,5 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+11533,user1,2017-03-13,user1,FMT_UNB_0671,,9999-12-31,True
+15697,mPOS,2017-03-24,mPOS,FMT_UNB_0671,,,True
+16239,mPOS,2017-03-24,mPOS,FMT_UNB_0671,,,True
+18618,000358,2017-03-27,000358,FMT_UNB_0671,2017-03-01,2017-03-01,True
