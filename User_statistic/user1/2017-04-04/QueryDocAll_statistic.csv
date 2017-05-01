@@ -1,0 +1,7 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+22474,user1,2017-04-04,user1,FMT_POS_0250,,9999-12-31,True
+22477,user1,2017-04-04,user1,FMT_POS_0250,,9999-12-31,True
+22486,user1,2017-04-04,user1,ODS_UNB_0690,,9999-12-31,True
+23062,user1,2017-04-04,user1,FMT_POS_0250,,9999-12-31,True
+23063,user1,2017-04-04,user1,FMT_POS_0250,,9999-12-31,True
+23064,user1,2017-04-04,user1,FMT_POS_0250,,9999-12-31,True

@@ -1,0 +1,7 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+6472,allencha,2017-03-03,allencha,ODS_CLM_0510,2017-01-20,2017-01-20,True
+6473,allencha,2017-03-03,allencha,ODS_CLM_0400,2017-01-20,2017-01-20,True
+6474,allencha,2017-03-03,allencha,ODS_INV_7200,,9999-12-31,True
+6475,allencha,2017-03-03,allencha,ODS_FIN_1150,,9999-12-31,True
+6476,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True
+6477,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True

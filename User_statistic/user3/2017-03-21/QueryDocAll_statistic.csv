@@ -1,0 +1,4 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+15731,user3,2017-03-21,user3,ODS_POS_0880,2017-03-01,2017-03-01,True
+15791,user3,2017-03-21,user3,ODS_POS_0880,2017-02-27,2017-02-27,True
+15809,user3,2017-03-21,user3,ODS_POS_0880,2017-02-07,2017-02-07,True

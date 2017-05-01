@@ -1,0 +1,7 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+28107,dennis,2017-04-15,dennis,ODS_POS_1400,,9999-12-31,True
+28112,dennis,2017-04-15,dennis,ODS_UNB_0050,2017-02-02,2017-02-02,True
+28156,dennis,2017-04-15,dennis,ODS_SC_6030,,9999-12-31,True
+28573,dennis,2017-04-15,dennis,ODS_SC_6210,2017-04-05,2017-04-05,True
+30260,dennis,2017-04-15,dennis,ODS_SC_6210,2017-04-05,2017-04-05,True
+30262,dennis,2017-04-15,dennis,ODS_SC_6211,2017-04-05,2017-04-05,True

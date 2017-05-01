@@ -1,0 +1,8 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+17587,user1,2017-03-26,user1,FMT_PA_0850,2016-04-01,2017-10-01,True
+19765,user1,2017-03-26,user1,FMT_PA_0800,2016-10-01,2017-10-01,True
+19766,user1,2017-03-26,user1,FMT_PA_0850,2016-10-01,2017-10-01,True
+19767,user1,2017-03-26,user1,FMT_POS_0290,,9999-12-31,True
+19768,user1,2017-03-26,user1,FMT_POS_0290,2017-03-01,2017-03-01,True
+19769,user1,2017-03-26,user1,FMT_UNB_0200,,9999-12-31,True
+19770,user1,2017-03-26,user1,FMT_PA_0850,,9999-12-31,True

@@ -1,0 +1,3 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+245,calvin,2017-02-09,calvin,ODS_CLM_0440,,9999-12-31,True
+466,calvin,2017-02-09,calvin,ODS_PA_0621_P,2017-01-31,2017-01-31,True

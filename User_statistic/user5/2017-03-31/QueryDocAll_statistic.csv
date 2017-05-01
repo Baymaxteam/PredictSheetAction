@@ -1,0 +1,7 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+17522,user5,2017-03-31,user5,FMT_POS_0140,2017-01-13,2017-01-13,True
+17600,user5,2017-03-31,user5,#POLICY#,2017-03-31,2017-03-31,True
+17624,user5,2017-03-31,user5,#POLICY#,2017-01-01,2017-03-31,True
+17694,user5,2017-03-31,user5,#POLICY#,2017-01-01,2017-03-31,True
+17709,user5,2017-03-31,user5,#POLICY#,2017-03-31,2017-03-31,True
+17856,user5,2017-03-31,user5,#POLICY#,2017-01-01,2017-03-31,True

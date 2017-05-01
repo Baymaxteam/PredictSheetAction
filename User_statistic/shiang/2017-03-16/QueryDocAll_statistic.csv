@@ -1,0 +1,9 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+12523,shiang,2017-03-16,shiang,ODS_POS_1410,2017-02-02,2017-02-02,True
+12754,shiang,2017-03-16,shiang,ODS_POS_1410,2017-02-07,2017-02-07,True
+12863,shiang,2017-03-16,shiang,ODS_POS_1140,,9999-12-31,True
+13195,shiang,2017-03-16,shiang,ODS_POS_1410,2017-02-07,2017-02-07,True
+13197,shiang,2017-03-16,shiang,ODS_POS_1450,,9999-12-31,True
+13201,shiang,2017-03-16,shiang,ODS_POS_1440,2017-02-07,2017-02-07,True
+13218,shiang,2017-03-16,shiang,ODS_POS_0920,,9999-12-31,True
+13392,shiang,2017-03-16,shiang,ODS_POS_1250,2017-02-02,2017-02-02,True

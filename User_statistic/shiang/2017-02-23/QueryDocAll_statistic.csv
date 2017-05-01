@@ -1,0 +1,4 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+3892,shiang,2017-02-23,shiang,ODS_POS_0770,2017-01-03,2017-01-03,True
+4098,shiang,2017-02-23,shiang,ODS_POS_1320,,9999-12-31,True
+5451,shiang,2017-02-23,shiang,ODS_POS_0770,2017-01-02,2017-01-02,True

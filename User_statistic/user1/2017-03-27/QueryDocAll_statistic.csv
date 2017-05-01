@@ -1,0 +1,5 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period
+18280,user1,2017-03-27,user1,#POLICY#,2017-03-01,2017-03-31,True
+18673,user1,2017-03-27,user1,ODS_POS_1010,2017-03-01,2017-03-01,True
+19050,user1,2017-03-27,user1,ODS_FIN_0790,,9999-12-31,True
+19649,user1,2017-03-27,user1,FMT_UNB_0300,,9999-12-31,True
