@@ -1,0 +1,10 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+15692,mPOS,2017-03-24,mPOS,FMT_UNB_0441,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16231,mPOS,2017-03-24,mPOS,FMT_UNB_0441,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+21313,mPOS,2017-04-03,mPOS,FMT_UNB_0441,,,True,2017,4,3,1,0,0,0,0,0,0,0,0
+23083,mPOS,2017-04-03,mPOS,FMT_UNB_0441,,,True,2017,4,3,1,0,0,0,0,0,0,0,0
+23091,mPOS,2017-04-03,mPOS,FMT_UNB_0441,,,True,2017,4,3,1,0,0,0,0,0,0,0,0
+23096,mPOS,2017-04-03,mPOS,FMT_UNB_0441,,,True,2017,4,3,1,0,0,0,0,0,0,0,0
+25722,mPOS,2017-04-05,mPOS,FMT_UNB_0441,,,True,2017,4,5,3,0,0,0,0,0,0,0,0
+26655,mPOS,2017-04-12,mPOS,FMT_UNB_0441,,,True,2017,4,12,3,0,0,0,0,0,0,0,0
+28335,mPOS,2017-04-13,mPOS,FMT_UNB_0441,,,True,2017,4,13,4,0,0,0,0,0,0,0,0

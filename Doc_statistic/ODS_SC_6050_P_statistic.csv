@@ -1,4 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-1552,000443,2017-04-19,000443,ODS_SC_6050_P,2017-04-30,2017-04-30,True,2017,4,19,3,2017,4,30,7,2017,4,30,7
-1557,000443,2017-04-19,000443,ODS_SC_6050_P,2017-04-30,2017-04-30,True,2017,4,19,3,2017,4,30,7,2017,4,30,7
-31615,jessie,2017-04-18,jessie,ODS_SC_6050_P,,9999-12-31,True,2017,4,18,2,0,0,0,0,0,0,0,0

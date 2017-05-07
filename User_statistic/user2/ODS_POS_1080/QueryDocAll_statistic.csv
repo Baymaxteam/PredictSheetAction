@@ -1,9 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-4585,user2,2017-03-07,user2,ODS_POS_1080,2017-01-13,2017-01-13,True,2017,3,7,2,2017,1,13,5,2017,1,13,5
-23204,user2,2017-04-05,user2,ODS_POS_1080,2017-03-01,2017-03-01,True,2017,4,5,3,2017,3,1,3,2017,3,1,3
-30498,user2,2017-04-20,user2,ODS_POS_1080,2017-02-02,2017-02-02,True,2017,4,20,4,2017,2,2,4,2017,2,2,4
-30499,user2,2017-04-20,user2,ODS_POS_1080,2017-02-07,2017-02-07,True,2017,4,20,4,2017,2,7,2,2017,2,7,2
-31939,user2,2017-04-20,user2,ODS_POS_1080,2017-02-07,2017-02-07,True,2017,4,20,4,2017,2,7,2,2017,2,7,2
-31975,user2,2017-04-20,user2,ODS_POS_1080,2017-02-27,2017-02-27,True,2017,4,20,4,2017,2,27,1,2017,2,27,1
-31976,user2,2017-04-20,user2,ODS_POS_1080,2017-03-01,2017-03-01,True,2017,4,20,4,2017,3,1,3,2017,3,1,3
-31977,user2,2017-04-20,user2,ODS_POS_1080,2017-03-31,2017-03-31,True,2017,4,20,4,2017,3,31,5,2017,3,31,5

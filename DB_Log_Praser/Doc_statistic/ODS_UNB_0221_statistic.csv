@@ -1,0 +1,11 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+4990,user2,2017-03-10,user2,ODS_UNB_0221,2017-01-10,2017-01-10,True,2017,3,10,5,2017,1,10,2,2017,1,10,2
+10719,shiang,2017-03-13,shiang,ODS_UNB_0221,2017-01-26,2017-01-26,True,2017,3,13,1,2017,1,26,4,2017,1,26,4
+10828,shiang,2017-03-14,shiang,ODS_UNB_0221,2017-02-02,2017-02-02,True,2017,3,14,2,2017,2,2,4,2017,2,2,4
+11099,user7,2017-03-14,user7,ODS_UNB_0221,2017-02-02,2017-02-02,True,2017,3,14,2,2017,2,2,4,2017,2,2,4
+11245,user1,2017-03-13,user1,ODS_UNB_0221,2017-01-10,2017-01-10,True,2017,3,13,1,2017,1,10,2,2017,1,10,2
+11372,yusiang,2017-03-13,yusiang,ODS_UNB_0221,2012-01-01,2012-01-01,True,2017,3,13,1,2012,1,1,7,2012,1,1,7
+11373,yusiang,2017-03-13,yusiang,ODS_UNB_0221,2012-01-01,2012-01-01,True,2017,3,13,1,2012,1,1,7,2012,1,1,7
+11971,shiang,2017-03-14,shiang,ODS_UNB_0221,2017-02-02,2017-02-02,True,2017,3,14,2,2017,2,2,4,2017,2,2,4
+11976,ricky,2017-03-14,ricky,ODS_UNB_0221,2017-02-02,2017-02-02,True,2017,3,14,2,2017,2,2,4,2017,2,2,4
+12910,user8,2017-03-16,user8,ODS_UNB_0221,2017-01-10,2017-01-10,True,2017,3,16,4,2017,1,10,2,2017,1,10,2

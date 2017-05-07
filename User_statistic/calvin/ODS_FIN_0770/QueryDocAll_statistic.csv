@@ -1,4 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-1596,calvin,2017-04-19,calvin,ODS_FIN_0770,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
-1598,calvin,2017-04-19,calvin,ODS_FIN_0770,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
-1599,calvin,2017-04-19,calvin,ODS_FIN_0770,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+20715,user15,2017-03-28,user15,FMT_POS_0190,,9999-12-31,True,2017,3,28,2,0,0,0,0,0,0,0,0
+27436,user15,2017-04-11,user15,FMT_POS_0190,2017-04-05,2017-04-05,True,2017,4,11,2,2017,4,5,3,2017,4,5,3

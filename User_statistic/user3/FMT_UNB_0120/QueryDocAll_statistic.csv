@@ -1,8 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-13553,user3,2017-03-18,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,18,6,0,0,0,0,0,0,0,0
-16602,user3,2017-03-24,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,24,5,0,0,0,0,0,0,0,0
-16603,user3,2017-03-24,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,24,5,0,0,0,0,0,0,0,0
-16604,user3,2017-03-24,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,24,5,0,0,0,0,0,0,0,0
-16605,user3,2017-03-24,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,24,5,0,0,0,0,0,0,0,0
-16606,user3,2017-03-24,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,24,5,0,0,0,0,0,0,0,0
-18470,user3,2017-03-28,user3,FMT_UNB_0120,,9999-12-31,True,2017,3,28,2,0,0,0,0,0,0,0,0

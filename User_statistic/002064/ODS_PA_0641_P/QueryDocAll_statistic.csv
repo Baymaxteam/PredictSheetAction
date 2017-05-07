@@ -1,5 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-2582,002064,2017-02-17,002064,ODS_PA_0641_P,2017-01-02,2017-01-02,True,2017,2,17,5,2017,1,2,1,2017,1,2,1
-5291,002064,2017-02-15,002064,ODS_PA_0641_P,2016-11-30,2017-12-31,True,2017,2,15,3,2016,11,30,3,2017,12,31,7
-7276,002064,2017-02-22,002064,ODS_PA_0641_P,2017-01-03,2017-01-03,True,2017,2,22,3,2017,1,3,2,2017,1,3,2
-7407,002064,2017-02-24,002064,ODS_PA_0641_P,2017-01-03,2017-01-03,True,2017,2,24,5,2017,1,3,2,2017,1,3,2

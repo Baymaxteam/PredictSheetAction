@@ -1,5 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-28878,esp.admin,2017-04-17,esp.admin,FMT_PA_1020,,9999-12-31,True,2017,4,17,1,0,0,0,0,0,0,0,0
-28915,esp.admin,2017-04-17,esp.admin,FMT_PA_1020,,9999-12-31,True,2017,4,17,1,0,0,0,0,0,0,0,0
-29118,esp.admin,2017-04-17,esp.admin,FMT_PA_1020,,9999-12-31,True,2017,4,17,1,0,0,0,0,0,0,0,0
-29519,esp.admin,2017-04-17,esp.admin,FMT_PA_1020,,9999-12-31,True,2017,4,17,1,0,0,0,0,0,0,0,0

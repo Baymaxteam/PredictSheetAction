@@ -1,0 +1,14 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+4108,yusiang,2017-02-23,yusiang,ODS_CLM_0580,2017-02-20,2017-02-20,True,2017,2,23,4,2017,2,20,1,2017,2,20,1
+9960,yusiang,2017-03-08,yusiang,ODS_CLM_0580,2017-02-20,2017-02-20,True,2017,3,8,3,2017,2,20,1,2017,2,20,1
+11386,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2017-01-31,2017-01-31,True,2017,3,13,1,2017,1,31,2,2017,1,31,2
+11387,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2017-01-31,2017-01-31,True,2017,3,13,1,2017,1,31,2,2017,1,31,2
+11462,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11463,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11464,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11468,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11469,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11470,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11473,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-05-14,2012-05-14,True,2017,3,13,1,2012,5,14,1,2012,5,14,1
+11496,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-11-11,2012-11-11,True,2017,3,13,1,2012,11,11,7,2012,11,11,7
+11498,yusiang,2017-03-13,yusiang,ODS_CLM_0580,2012-05-14,2012-05-14,True,2017,3,13,1,2012,5,14,1,2012,5,14,1

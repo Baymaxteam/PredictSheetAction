@@ -1,3 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-29146,user1,2017-04-17,user1,LS_INV_0010,2017-04-08,2017-04-08,True,2017,4,17,1,2017,4,8,6,2017,4,8,6
-29557,user1,2017-04-17,user1,LS_INV_0010,2017-04-08,2017-04-08,True,2017,4,17,1,2017,4,8,6,2017,4,8,6

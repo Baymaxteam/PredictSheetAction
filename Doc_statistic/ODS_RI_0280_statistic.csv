@@ -1,7 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-1434,001698,2017-04-19,001698,ODS_RI_0280,2017-03-31,2017-03-31,True,2017,4,19,3,2017,3,31,5,2017,3,31,5
-1526,001340,2017-04-19,001340,ODS_RI_0280,2017-04-30,2017-04-30,True,2017,4,19,3,2017,4,30,7,2017,4,30,7
-1530,001340,2017-04-19,001340,ODS_RI_0280,2017-04-30,2017-04-30,True,2017,4,19,3,2017,4,30,7,2017,4,30,7
-7198,weiting,2017-02-09,weiting,ODS_RI_0280,2017-02-09,2017-02-09,True,2017,2,9,4,2017,2,9,4,2017,2,9,4
-7199,weiting,2017-02-09,weiting,ODS_RI_0280,2017-01-31,2017-01-31,True,2017,2,9,4,2017,1,31,2,2017,1,31,2
-31705,001340,2017-04-19,001340,ODS_RI_0280,2017-04-30,2017-04-30,True,2017,4,19,3,2017,4,30,7,2017,4,30,7

@@ -1,0 +1,5 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+6507,000898,2017-03-03,000898,FMT_PA_0780,2016-05-01,2017-03-03,True,2017,3,3,5,2016,5,1,7,2017,3,3,5
+6544,000898,2017-03-03,000898,FMT_PA_0780,2016-08-01,2017-03-03,True,2017,3,3,5,2016,8,1,1,2017,3,3,5
+9449,000898,2017-03-10,000898,FMT_PA_0780,0106-01-11,0106-01-31,True,2017,3,10,5,106,1,11,1,106,1,31,7
+13415,000898,2017-03-18,000898,FMT_PA_0780,2017-01-01,2017-03-31,True,2017,3,18,6,2017,1,1,7,2017,3,31,5

@@ -1,0 +1,12 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+1593,user1,2017-04-19,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
+12358,user1,2017-03-17,user1,ODS_FIN_0750,,9999-12-31,True,2017,3,17,5,0,0,0,0,0,0,0,0
+14404,user1,2017-04-12,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,12,3,0,0,0,0,0,0,0,0
+27237,user1,2017-04-12,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,12,3,0,0,0,0,0,0,0,0
+27301,user1,2017-04-11,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,11,2,0,0,0,0,0,0,0,0
+27589,user1,2017-04-11,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,11,2,0,0,0,0,0,0,0,0
+28430,user1,2017-04-11,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,11,2,0,0,0,0,0,0,0,0
+28527,user1,2017-04-11,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,11,2,0,0,0,0,0,0,0,0
+29042,user1,2017-04-13,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,13,4,0,0,0,0,0,0,0,0
+29260,user1,2017-04-13,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,13,4,0,0,0,0,0,0,0,0
+30211,user1,2017-04-13,user1,ODS_FIN_0750,,9999-12-31,True,2017,4,13,4,0,0,0,0,0,0,0,0

@@ -1,4 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-10522,user8,2017-03-11,user8,ODS_UNB_0270,2017-01-26,2017-01-26,True,2017,3,11,6,2017,1,26,4,2017,1,26,4
-10557,user8,2017-03-11,user8,ODS_UNB_0270,2017-01-26,2017-01-26,True,2017,3,11,6,2017,1,26,4,2017,1,26,4
-10558,user8,2017-03-11,user8,ODS_UNB_0270,2017-01-25,2017-01-25,True,2017,3,11,6,2017,1,25,3,2017,1,25,3

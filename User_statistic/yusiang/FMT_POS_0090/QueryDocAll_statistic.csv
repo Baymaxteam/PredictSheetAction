@@ -1,5 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-4088,yusiang,2017-02-23,yusiang,FMT_POS_0090,2015-11-01,2017-02-28,True,2017,2,23,4,2015,11,1,7,2017,2,28,2
-4093,yusiang,2017-02-23,yusiang,FMT_POS_0090,2015-11-01,2017-02-28,True,2017,2,23,4,2015,11,1,7,2017,2,28,2
-20174,yusiang,2017-03-27,yusiang,FMT_POS_0090,2012-01-01,2018-01-01,True,2017,3,27,1,2012,1,1,7,2018,1,1,1
-20510,yusiang,2017-03-27,yusiang,FMT_POS_0090,2012-01-01,2017-01-01,True,2017,3,27,1,2012,1,1,7,2017,1,1,7

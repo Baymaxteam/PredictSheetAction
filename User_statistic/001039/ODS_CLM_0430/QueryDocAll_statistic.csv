@@ -1,3 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-3982,001039,2017-02-22,001039,ODS_CLM_0430,2017-01-01,2017-01-01,True,2017,2,22,3,2017,1,1,7,2017,1,1,7
-3983,001039,2017-02-22,001039,ODS_CLM_0430,2017-01-31,2017-01-31,True,2017,2,22,3,2017,1,31,2,2017,1,31,2

@@ -1,0 +1,10 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+7657,roxana,2017-03-06,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,6,1,0,0,0,0,0,0,0,0
+7662,roxana,2017-03-06,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,6,1,0,0,0,0,0,0,0,0
+7663,roxana,2017-03-06,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,6,1,0,0,0,0,0,0,0,0
+7859,roxana,2017-03-06,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,6,1,0,0,0,0,0,0,0,0
+8073,roxana,2017-03-06,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,6,1,0,0,0,0,0,0,0,0
+10407,roxana,2017-03-10,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,10,5,0,0,0,0,0,0,0,0
+11270,roxana,2017-03-13,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,13,1,0,0,0,0,0,0,0,0
+11319,roxana,2017-03-13,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,13,1,0,0,0,0,0,0,0,0
+19180,roxana,2017-03-28,roxana,ODS_POS_7080,,9999-12-31,True,2017,3,28,2,0,0,0,0,0,0,0,0

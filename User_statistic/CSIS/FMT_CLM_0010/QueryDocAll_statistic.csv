@@ -1,5 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
-2891,CSIS,2017-02-18,CSIS,FMT_CLM_0010,2016-12-15,2016-12-16,True,2017,2,18,6,2016,12,15,4,2016,12,16,5
-2895,CSIS,2017-02-18,CSIS,FMT_CLM_0010,2016-12-15,2016-12-16,True,2017,2,18,6,2016,12,15,4,2016,12,16,5
-8996,CSIS,2017-03-06,CSIS,FMT_CLM_0010,2016-07-15,2016-09-17,True,2017,3,6,1,2016,7,15,5,2016,9,17,6
-21142,CSIS,2017-04-01,CSIS,FMT_CLM_0010,2016-07-15,2016-09-17,True,2017,4,1,6,2016,7,15,5,2016,9,17,6
