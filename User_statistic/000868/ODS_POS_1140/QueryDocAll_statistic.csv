@@ -1,0 +1,9 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+1838,000868,2017-02-17,000868,ODS_POS_1140,,9999-12-31,True,2017,2,17,5,0,0,0,0,0,0,0,0
+3016,000868,2017-02-17,000868,ODS_POS_1140,,9999-12-31,True,2017,2,17,5,0,0,0,0,0,0,0,0
+6096,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6099,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6100,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6349,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6384,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6385,000868,2017-02-09,000868,ODS_POS_1140,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0

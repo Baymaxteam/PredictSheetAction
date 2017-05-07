@@ -1,0 +1,11 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+10717,ricky,2017-03-13,ricky,ODS_POS_0880,2017-01-26,2017-01-26,True,2017,3,13,1,2017,1,26,4,2017,1,26,4
+10718,ricky,2017-03-13,ricky,ODS_POS_0880,2017-01-26,2017-01-26,True,2017,3,13,1,2017,1,26,4,2017,1,26,4
+10720,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+10726,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+10727,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+11371,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+11396,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+11397,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4
+11398,ricky,2017-03-13,ricky,ODS_POS_0880,2017-01-26,2017-01-26,True,2017,3,13,1,2017,1,26,4,2017,1,26,4
+11399,ricky,2017-03-13,ricky,ODS_POS_0880,2017-02-02,2017-02-02,True,2017,3,13,1,2017,2,2,4,2017,2,2,4

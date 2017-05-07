@@ -1,6 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-26372,user19,2017-04-11,user19,FMT_POS_0130,2017-01-01,2017-04-30,True
-27505,user19,2017-04-11,user19,ODS_POS_1350_P,,9999-12-31,True
-27661,user19,2017-04-11,user19,ODS_POS_1350_E,,9999-12-31,True
-27664,user19,2017-04-11,user19,ODS_POS_1350_E,,9999-12-31,True
-27665,user19,2017-04-11,user19,ODS_POS_1350_P,,9999-12-31,True

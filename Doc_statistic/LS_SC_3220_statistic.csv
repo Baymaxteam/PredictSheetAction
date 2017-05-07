@@ -1,8 +1,8 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-6716,mPOS,2017-02-24,mPOS,LS_SC_3220,,,True
-6732,mPOS,2017-02-24,mPOS,LS_SC_3220,,,True
-26261,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True
-26951,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True
-27016,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True
-27017,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True
-27829,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+6716,mPOS,2017-02-24,mPOS,LS_SC_3220,,,True,2017,2,24,5,0,0,0,0,0,0,0,0
+6732,mPOS,2017-02-24,mPOS,LS_SC_3220,,,True,2017,2,24,5,0,0,0,0,0,0,0,0
+26261,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0
+26951,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0
+27016,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0
+27017,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0
+27829,esp.admin,2017-04-10,esp.admin,LS_SC_3220,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0

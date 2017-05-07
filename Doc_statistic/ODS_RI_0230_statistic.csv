@@ -1,6 +1,6 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-2767,001993,2017-04-19,001993,ODS_RI_0230,2017-01-31,2017-01-31,True
-13232,001698,2017-03-16,001698,ODS_RI_0230,2017-02-02,2017-02-02,True
-13233,001698,2017-03-16,001698,ODS_RI_0230,2017-01-31,2017-01-31,True
-13248,001698,2017-03-16,001698,ODS_RI_0230,2017-02-02,2017-02-02,True
-13249,001698,2017-03-16,001698,ODS_RI_0230,2017-02-05,2017-02-05,True
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+2767,001993,2017-04-19,001993,ODS_RI_0230,2017-01-31,2017-01-31,True,2017,4,19,3,2017,1,31,2,2017,1,31,2
+13232,001698,2017-03-16,001698,ODS_RI_0230,2017-02-02,2017-02-02,True,2017,3,16,4,2017,2,2,4,2017,2,2,4
+13233,001698,2017-03-16,001698,ODS_RI_0230,2017-01-31,2017-01-31,True,2017,3,16,4,2017,1,31,2,2017,1,31,2
+13248,001698,2017-03-16,001698,ODS_RI_0230,2017-02-02,2017-02-02,True,2017,3,16,4,2017,2,2,4,2017,2,2,4
+13249,001698,2017-03-16,001698,ODS_RI_0230,2017-02-05,2017-02-05,True,2017,3,16,4,2017,2,5,7,2017,2,5,7

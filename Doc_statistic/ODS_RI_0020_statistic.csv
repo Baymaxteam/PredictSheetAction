@@ -1,6 +1,6 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-2748,000802,2017-04-19,000802,ODS_RI_0020,,9999-12-31,True
-2778,000802,2017-04-19,000802,ODS_RI_0020,,9999-12-31,True
-2779,001993,2017-04-19,001993,ODS_RI_0020,,9999-12-31,True
-2781,001993,2017-04-19,001993,ODS_RI_0020,,9999-12-31,True
-12858,001993,2017-03-16,001993,ODS_RI_0020,,9999-12-31,True
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+2748,000802,2017-04-19,000802,ODS_RI_0020,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
+2778,000802,2017-04-19,000802,ODS_RI_0020,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
+2779,001993,2017-04-19,001993,ODS_RI_0020,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
+2781,001993,2017-04-19,001993,ODS_RI_0020,,9999-12-31,True,2017,4,19,3,0,0,0,0,0,0,0,0
+12858,001993,2017-03-16,001993,ODS_RI_0020,,9999-12-31,True,2017,3,16,4,0,0,0,0,0,0,0,0

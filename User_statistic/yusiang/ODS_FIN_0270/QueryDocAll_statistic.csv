@@ -1,0 +1,7 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+23256,yusiang,2017-04-07,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+23257,yusiang,2017-04-07,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+25104,yusiang,2017-04-07,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+25106,yusiang,2017-04-07,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+25178,yusiang,2017-04-07,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+27884,yusiang,2017-04-10,yusiang,ODS_FIN_0270,,9999-12-31,True,2017,4,10,1,0,0,0,0,0,0,0,0

@@ -1,4 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-7600,user3,2017-03-04,user3,ODS_CLM_0580,2017-01-10,2017-01-10,True
-7605,user3,2017-03-04,user3,ODS_FIN_0820,,9999-12-31,True
-7606,user3,2017-03-04,user3,ODS_CLM_0400,2017-01-10,2017-01-10,True

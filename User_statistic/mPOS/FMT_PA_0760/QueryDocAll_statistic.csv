@@ -1,0 +1,11 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+16052,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16087,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16114,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16138,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16146,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+16152,mPOS,2017-03-24,mPOS,FMT_PA_0760,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+18282,mPOS,2017-03-29,mPOS,FMT_PA_0760,,,True,2017,3,29,3,0,0,0,0,0,0,0,0
+20019,mPOS,2017-03-28,mPOS,FMT_PA_0760,,,True,2017,3,28,2,0,0,0,0,0,0,0,0
+21052,mPOS,2017-03-29,mPOS,FMT_PA_0760,,,True,2017,3,29,3,0,0,0,0,0,0,0,0
+21053,mPOS,2017-03-29,mPOS,FMT_PA_0760,,,True,2017,3,29,3,0,0,0,0,0,0,0,0

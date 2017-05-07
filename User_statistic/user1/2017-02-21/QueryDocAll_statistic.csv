@@ -1,6 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-3923,user1,2017-02-21,user1,#POLICY#,0106-01-03,0106-01-04,True
-3924,user1,2017-02-21,user1,#POLICY#,0106-01-02,0106-01-11,True
-3925,user1,2017-02-21,user1,#POLICY#,2016-12-01,2017-02-01,True
-3926,user1,2017-02-21,user1,#POLICY#,2017-01-01,2017-02-10,True
-3927,user1,2017-02-21,user1,#POLICY#,2017-01-01,2017-01-10,True

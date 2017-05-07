@@ -1,8 +1,8 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-6472,allencha,2017-03-03,allencha,ODS_CLM_0510,2017-01-20,2017-01-20,True
-6473,allencha,2017-03-03,allencha,ODS_CLM_0400,2017-01-20,2017-01-20,True
-6474,allencha,2017-03-03,allencha,ODS_INV_7200,,9999-12-31,True
-6475,allencha,2017-03-03,allencha,ODS_FIN_1150,,9999-12-31,True
-6476,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True
-6477,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True
-10742,allencha,2017-03-13,allencha,ODS_ESP_0203,,9999-12-31,True
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+6472,allencha,2017-03-03,allencha,ODS_CLM_0510,2017-01-20,2017-01-20,True,2017,3,3,5,2017,1,20,5,2017,1,20,5
+6473,allencha,2017-03-03,allencha,ODS_CLM_0400,2017-01-20,2017-01-20,True,2017,3,3,5,2017,1,20,5,2017,1,20,5
+6474,allencha,2017-03-03,allencha,ODS_INV_7200,,9999-12-31,True,2017,3,3,5,0,0,0,0,0,0,0,0
+6475,allencha,2017-03-03,allencha,ODS_FIN_1150,,9999-12-31,True,2017,3,3,5,0,0,0,0,0,0,0,0
+6476,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True,2017,3,3,5,0,0,0,0,0,0,0,0
+6477,allencha,2017-03-03,allencha,ODS_POS_1140,,9999-12-31,True,2017,3,3,5,0,0,0,0,0,0,0,0
+10742,allencha,2017-03-13,allencha,ODS_ESP_0203,,9999-12-31,True,2017,3,13,1,0,0,0,0,0,0,0,0

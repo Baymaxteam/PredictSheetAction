@@ -1,5 +1,5 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-5756,calvin,2017-02-10,calvin,ODS_FIN_0930,,9999-12-31,True
-23641,001867,2017-04-07,001867,ODS_FIN_0930,,9999-12-31,True
-29632,001867,2017-04-14,001867,ODS_FIN_0930,,9999-12-31,True
-29696,001867,2017-04-14,001867,ODS_FIN_0930,,9999-12-31,True
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+5756,calvin,2017-02-10,calvin,ODS_FIN_0930,,9999-12-31,True,2017,2,10,5,0,0,0,0,0,0,0,0
+23641,001867,2017-04-07,001867,ODS_FIN_0930,,9999-12-31,True,2017,4,7,5,0,0,0,0,0,0,0,0
+29632,001867,2017-04-14,001867,ODS_FIN_0930,,9999-12-31,True,2017,4,14,5,0,0,0,0,0,0,0,0
+29696,001867,2017-04-14,001867,ODS_FIN_0930,,9999-12-31,True,2017,4,14,5,0,0,0,0,0,0,0,0

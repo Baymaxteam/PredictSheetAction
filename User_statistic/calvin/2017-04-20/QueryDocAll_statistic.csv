@@ -1,9 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-31643,calvin,2017-04-20,calvin,ODS_PA_0400,2017-04-30,2017-04-30,True
-31715,calvin,2017-04-20,calvin,ODS_SC_6230,2017-04-30,2017-04-30,True
-31717,calvin,2017-04-20,calvin,ODS_SC_6230,2017-04-30,2017-04-30,True
-31815,calvin,2017-04-20,calvin,ODS_INV_7100,,9999-12-31,True
-32187,calvin,2017-04-20,calvin,ODS_PA_0400,2017-04-30,2017-04-30,True
-32210,calvin,2017-04-20,calvin,ODS_INV_7100,,9999-12-31,True
-32212,calvin,2017-04-20,calvin,ODS_PA_0400,2017-04-30,2017-04-30,True
-32272,calvin,2017-04-20,calvin,ODS_POS_1460,2017-04-30,2017-04-30,True

@@ -1,8 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-22451,user3,2017-04-05,user3,#POLICY#,,9999-12-31,True
-22453,user3,2017-04-05,user3,#POLICY#,,9999-12-31,True
-22454,user3,2017-04-05,user3,#POLICY#,,9999-12-31,True
-22455,user3,2017-04-05,user3,#POLICY#,,9999-12-31,True
-24736,user3,2017-04-05,user3,ODS_UNB_0260,2017-03-31,2017-03-31,True
-24743,user3,2017-04-05,user3,ODS_UNB_0260,2017-03-31,2017-03-31,True
-25551,user3,2017-04-05,user3,ODS_UNB_0261,2017-03-31,2017-03-31,True

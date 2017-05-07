@@ -1,7 +1,0 @@
-,username,query_date,report_name,doc,start_date,end_date,is_period
-4983,ricky,2017-03-10,ricky,ODS_POS_1440,2017-01-27,2017-01-27,True
-4984,ricky,2017-03-10,ricky,ODS_POS_1440,2017-01-26,2017-01-26,True
-4985,ricky,2017-03-10,ricky,ODS_POS_1450,,9999-12-31,True
-5001,ricky,2017-03-10,ricky,ODS_SC_6230,2017-01-02,2017-01-02,True
-5005,ricky,2017-03-10,ricky,ODS_SC_6230,2017-01-02,2017-01-02,True
-5805,ricky,2017-03-10,ricky,ODS_POS_1440,2017-01-26,2017-01-26,True

@@ -1,0 +1,5 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+15349,mPOS,2017-03-24,mPOS,FMT_POS_0260,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+15447,mPOS,2017-03-24,mPOS,FMT_POS_0260,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+15451,mPOS,2017-03-24,mPOS,FMT_POS_0260,,,True,2017,3,24,5,0,0,0,0,0,0,0,0
+15454,mPOS,2017-03-24,mPOS,FMT_POS_0260,,,True,2017,3,24,5,0,0,0,0,0,0,0,0

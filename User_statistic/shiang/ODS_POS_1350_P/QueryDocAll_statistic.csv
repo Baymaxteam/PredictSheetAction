@@ -1,0 +1,9 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+4486,shiang,2017-03-08,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,3,8,3,0,0,0,0,0,0,0,0
+4487,shiang,2017-03-08,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,3,8,3,0,0,0,0,0,0,0,0
+5740,shiang,2017-02-10,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,2,10,5,0,0,0,0,0,0,0,0
+5742,shiang,2017-02-10,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,2,10,5,0,0,0,0,0,0,0,0
+6957,shiang,2017-02-15,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,2,15,3,0,0,0,0,0,0,0,0
+6958,shiang,2017-02-15,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,2,15,3,0,0,0,0,0,0,0,0
+10009,shiang,2017-03-08,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,3,8,3,0,0,0,0,0,0,0,0
+10068,shiang,2017-03-08,shiang,ODS_POS_1350_P,,9999-12-31,True,2017,3,8,3,0,0,0,0,0,0,0,0
