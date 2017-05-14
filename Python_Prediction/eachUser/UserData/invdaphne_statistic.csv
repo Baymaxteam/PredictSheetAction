@@ -1,0 +1,14 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+264,invdaphne,2017-02-14,invdaphne,ODS_INV_7200,,9999-12-31,True,2017,2,14,2,0,0,0,0,0,0,0,0
+1754,invdaphne,2017-02-15,invdaphne,ODS_INV_7260,,9999-12-31,True,2017,2,15,3,0,0,0,0,0,0,0,0
+2108,invdaphne,2017-02-17,invdaphne,ODS_INV_7170,,9999-12-31,True,2017,2,17,5,0,0,0,0,0,0,0,0
+3886,invdaphne,2017-02-23,invdaphne,ODS_INV_7230,,9999-12-31,True,2017,2,23,4,0,0,0,0,0,0,0,0
+3887,invdaphne,2017-02-23,invdaphne,ODS_INV_7320,,9999-12-31,True,2017,2,23,4,0,0,0,0,0,0,0,0
+3888,invdaphne,2017-02-23,invdaphne,ODS_INV_7320,,9999-12-31,True,2017,2,23,4,0,0,0,0,0,0,0,0
+4242,invdaphne,2017-02-23,invdaphne,ODS_INV_7230,,9999-12-31,True,2017,2,23,4,0,0,0,0,0,0,0,0
+4243,invdaphne,2017-02-23,invdaphne,ODS_INV_7230,,9999-12-31,True,2017,2,23,4,0,0,0,0,0,0,0,0
+6097,invdaphne,2017-02-09,invdaphne,ODS_INV_7200,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6098,invdaphne,2017-02-09,invdaphne,ODS_INV_7200,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6336,invdaphne,2017-02-09,invdaphne,ODS_INV_7220,,9999-12-31,True,2017,2,9,4,0,0,0,0,0,0,0,0
+6837,invdaphne,2017-02-13,invdaphne,ODS_INV_7260,,9999-12-31,True,2017,2,13,1,0,0,0,0,0,0,0,0
+7191,invdaphne,2017-02-16,invdaphne,ODS_INV_7180,,9999-12-31,True,2017,2,16,4,0,0,0,0,0,0,0,0

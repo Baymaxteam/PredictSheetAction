@@ -1,0 +1,13 @@
+,username,query_date,report_name,doc,start_date,end_date,is_period,query_date_year,query_date_month,query_date_day,query_date_weekday,doc_start_date_year,doc_start_date_month,doc_start_date_day,doc_start_date_weekday,doc_end_date_year,doc_end_date_month,doc_end_date_day,doc_end_date_weekday
+6481,test,2017-03-03,test,ODS_UNB_0232,,,False,2017,3,3,5,0,0,0,0,0,0,0,0
+6633,test,2017-03-03,test,ODS_UNB_0232,,,False,2017,3,3,5,0,0,0,0,0,0,0,0
+7436,test,2017-03-06,test,ODS_UNB_0232,,,False,2017,3,6,1,0,0,0,0,0,0,0,0
+8382,test,2017-03-02,test,ODS_UNB_0232,,,False,2017,3,2,4,0,0,0,0,0,0,0,0
+8473,test,2017-03-02,test,ODS_UNB_0232,,,False,2017,3,2,4,0,0,0,0,0,0,0,0
+11330,test,2017-04-12,test,ODS_POS_0430,2015-10-03,,True,2017,4,12,3,2015,10,3,6,0,0,0,0
+11505,test,2017-03-13,test,ODS_UNB_0232,,,False,2017,3,13,1,0,0,0,0,0,0,0,0
+15131,test,2017-03-24,test,ODS_INV_7010,2015-10-03,,True,2017,3,24,5,2015,10,3,6,0,0,0,0
+15132,test,2017-03-24,test,ODS_INV_7010,2015-10-03,,True,2017,3,24,5,2015,10,3,6,0,0,0,0
+15638,test,2017-03-24,test,ODS_INV_7010,2015-10-03,,True,2017,3,24,5,2015,10,3,6,0,0,0,0
+16229,test,2017-03-21,test,ODS_CLM_0430,2015-10-03,,True,2017,3,21,2,2015,10,3,6,0,0,0,0
+16230,test,2017-03-21,test,ODS_INV_7010,2015-10-03,,True,2017,3,21,2,2015,10,3,6,0,0,0,0
